@@ -36,6 +36,8 @@ namespace TestGitHub
         {
             //LiQiang Add
             int a = 0;
+            //shiwei Add
+            int b = 0;
         }
 
         private decimal TestFun7()
