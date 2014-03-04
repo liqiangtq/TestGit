@@ -59,11 +59,5 @@ namespace TestGitHub
             return "qq";
         }
 
-
-        private int LiuhaoTest()
-        {
-            //liuhao add 2014-02-17
-            return 0;
-        }
     }
 }

@@ -1,0 +1,26 @@
+From 935199c0189021753588650a41bb872d2508bfaa Mon Sep 17 00:00:00 2001
+From: liqiangtq <liqiang@tq-soft.com>
+Date: Tue, 4 Mar 2014 14:03:02 +0800
+Subject: [PATCH] modify LQ
+
+---
+ TestGitHub/Class1.cs | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/TestGitHub/Class1.cs b/TestGitHub/Class1.cs
+index b527db5..ee9aea4 100644
+--- a/TestGitHub/Class1.cs
++++ b/TestGitHub/Class1.cs
+@@ -63,7 +63,8 @@ protected string shiwei()
+         private int LiuhaoTest()
+         {
+             //liuhao add 2014-02-17
+-            return 0;
++            //return 0;
++			return 11;
+         }
+     }
+ }
+-- 
+1.8.4.msysgit.0
+
