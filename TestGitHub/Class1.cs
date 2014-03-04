@@ -63,7 +63,8 @@ namespace TestGitHub
         private int LiuhaoTest()
         {
             //liuhao add 2014-02-17
-            return 0;
+            //return 0;
+			return 11;
         }
     }
 }
