@@ -59,5 +59,10 @@ namespace TestGitHub
             return "qq";
         }
 
+        protected void RebaseTest1()
+        {
+            var strA = "hello.";
+        }
+
     }
 }
