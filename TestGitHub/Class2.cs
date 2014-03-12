@@ -29,11 +29,6 @@ namespace TestGitHub
             return 100;
         }
 
-        private void RebaseTest_1()
-        {
-            var intNum = 0;
-        }
-
         protected void TestRebaseBranch_3()
         {
             //branch develop
