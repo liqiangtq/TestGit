@@ -28,5 +28,10 @@ namespace TestGitHub
         {
             return 100;
         }
+
+        private void RebaseTest_1()
+        {
+            var intNum = 0;
+        }
     }
 }
