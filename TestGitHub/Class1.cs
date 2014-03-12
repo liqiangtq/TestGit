@@ -74,5 +74,10 @@ namespace TestGitHub
             //branch RBTNew
         }
 
+        private void RBTNew_2()
+        {
+            //branch RBTNew
+        }
+
     }
 }
