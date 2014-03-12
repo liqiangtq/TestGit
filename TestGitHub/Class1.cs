@@ -69,6 +69,10 @@ namespace TestGitHub
             var strB = "hello world.";
         }
 
+        private void RBTNew_1()
+        {
+            //branch RBTNew
+        }
 
     }
 }
