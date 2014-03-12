@@ -33,5 +33,10 @@ namespace TestGitHub
         {
             var intNum = 0;
         }
+
+        protected void TestRebaseBranch_3()
+        {
+            //branch develop
+        }
     }
 }
