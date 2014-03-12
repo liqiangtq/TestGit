@@ -73,5 +73,10 @@ namespace TestGitHub
         {
             //branch TestRebaseBranch
         }
+
+        private void TestRebaseBranch_2()
+        {
+            //branch TestRebaseBranch
+        }
     }
 }
