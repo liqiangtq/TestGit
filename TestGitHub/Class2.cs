@@ -38,5 +38,9 @@ namespace TestGitHub
         {
             //branch develop
         }
+        protected void TestRebaseBranch_4()
+        {
+            //branch develop
+        }
     }
 }
