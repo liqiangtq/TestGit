@@ -13,5 +13,11 @@ namespace TestGitHub
         {
             //modify 1
         }
+
+        private void TestMergeBranch_1()
+        {
+            //banch TestMergeBranch
+            var intNum1 = 100;
+        }
     }
 }
