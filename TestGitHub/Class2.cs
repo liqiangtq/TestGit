@@ -42,5 +42,10 @@ namespace TestGitHub
         {
             //branch develop
         }
+
+        private void TRBNew_3()
+        {
+            //branch TestRebaseBranch
+        }
     }
 }
