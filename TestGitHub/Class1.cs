@@ -64,5 +64,11 @@ namespace TestGitHub
             var strA = "hello.";
         }
 
+        protected void RebaseTest2()
+        {
+            var strB = "hello world.";
+        }
+
+
     }
 }
