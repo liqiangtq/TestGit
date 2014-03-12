@@ -69,6 +69,9 @@ namespace TestGitHub
             var strB = "hello world.";
         }
 
-
+        private void TestRebaseBranch_1()
+        {
+            //branch TestRebaseBranch
+        }
     }
 }
