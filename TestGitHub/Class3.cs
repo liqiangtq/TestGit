@@ -25,5 +25,10 @@ namespace TestGitHub
         {
             return "123";
         }
+
+        private void TestMergeBranch_3()
+        {
+            //branch develop
+        }
     }
 }
