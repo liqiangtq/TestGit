@@ -48,5 +48,9 @@ namespace TestGitHub
             //branch develop
         }
 
+        private void RebaseTest_2()
+        {
+            //branch develop
+        }
     }
 }
