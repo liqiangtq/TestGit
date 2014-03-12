@@ -19,5 +19,11 @@ namespace TestGitHub
             //banch TestMergeBranch
             var intNum1 = 100;
         }
+
+        private void TestMergeBranch_2()
+        {
+            //banch TestMergeBranch
+            var intNum2 = 200;
+        }
     }
 }
