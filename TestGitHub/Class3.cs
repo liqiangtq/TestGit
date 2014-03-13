@@ -30,5 +30,10 @@ namespace TestGitHub
         {
             //branch develop
         }
+
+        private void RebaseBranch_1()
+        {
+            //branch Branch1
+        }
     }
 }
